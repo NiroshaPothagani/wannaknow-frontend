@@ -1,4 +1,4 @@
-# LearnWithExperts
+# wannaknow
 
 * Share your knowledge to like minded people and get knowledge from experts who are enthusiasts to share their knowledge.
 
